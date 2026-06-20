@@ -1,0 +1,5 @@
+Veštačka inteligencija predstavlja oblast računarskih nauka koja se bavi razvojem sistema sposobnih za rešavanje problema, donošenje odluka i razumevanje ljudskog govora.
+
+Automatsko prepoznavanje govora omogućava pretvaranje audio signala u tekstualni zapis i koristi se u velikom broju modernih aplikacija.
+
+Modeli zasnovani na dubokom učenju značajno su unapredili kvalitet i brzinu obrade govora.

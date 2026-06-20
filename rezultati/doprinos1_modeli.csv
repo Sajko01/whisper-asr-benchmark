@@ -1,0 +1,5 @@
+﻿Model,Vreme [s],WER [%]
+tiny,5.11,9.93
+base,6.6,9.22
+small,15.52,7.09
+medium,42.0,7.09
